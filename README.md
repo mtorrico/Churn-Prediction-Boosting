@@ -1,5 +1,5 @@
 # Churn-Prediction-Boosting
-- Customer churn occurs when customers stop doing business with a company. The companies are interested in identifying trends of these customers because the price for acquiring a new customer is usually higher than retaining the old one. 
+- Customer churn (commonly known as customer attrition) occurs when customers stop doing business with a company. The companies are interested in identifying trends of these customers because the price for acquiring a new customer is usually higher than retaining the old one. 
 - For the purpose of this project, I look into ride share service customer data with the objective of predicting churn. Moreover, based on the data insights I will provide a recommendation for the company for the next steps to follow to reduce chrun (data-drive solution to the company's problem). 
 
 # Description of data
