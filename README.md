@@ -1,6 +1,6 @@
 # Churn-Prediction-Boosting
 - Customer churn (commonly known as customer attrition) occurs when customers stop doing business with a company. The companies are interested in identifying trends of these customers because the price for acquiring a new customer is usually higher than retaining the old one. 
-- For the purpose of this project, I look into ride share service customer data with the objective of predicting churn. Moreover, based on the data insights I will provide a recommendation for the company for the next steps to follow to reduce chrun (data-drive solution to the company's problem). 
+- For the purpose of this project, I look into ride share service customer data with the objective of predicting churn and implement an ensemble boosted tree model and look at confusion matrix to assess model performance.
 
 # Description of data
 - Since the data is sourced from a real company, I am unable to provide the raw files. However, here is a detailed description of the data just to give an overview of what we are going to be working with
