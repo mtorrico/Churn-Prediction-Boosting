@@ -22,4 +22,4 @@
 - Boosted tree modeling
 - Feature importances
 - GridSearch and Bayesian hyperparameter optimization
-- Data-driven recommendation to company
+
