@@ -19,7 +19,7 @@
 
 # Outline of project (more details in Jupyter Notebook)
 - Data processsing and EDA
-- Boosted tree modeling
+- Gradient boosted decision tree modeling
 - Feature importances
 - GridSearch and Bayesian hyperparameter optimization
 
